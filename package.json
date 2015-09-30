@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Sample website for Web Development with Node and Express (O'Reilly)",
+  "main": "meadowclark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieut/meadowclark.git"
+  },
+  "author": "Kieu Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kieut/meadowclark/issues"
+  },
+  "homepage": "https://github.com/kieut/meadowclark#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
